@@ -1,0 +1,25 @@
+html, body{
+    background-color: pink;
+}
+.main-div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:pink;
+    color: black;
+    height: 1000px;
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    margin-top: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: black;
+    }
+    
+.innerDiv{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: left;
+    margin: auto;
+    padding: 30px;
+}
